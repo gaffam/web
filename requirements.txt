@@ -3,6 +3,3 @@ language-tool-python==2.8.1
 python-docx==1.1.2
 pypdf==5.5.0
 feedparser==6.0.11
-whoosh==2.7.4
-requests==2.32.3
-openai==1.84.0
